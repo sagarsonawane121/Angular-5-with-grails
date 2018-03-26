@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-plugin-rest:3.2.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.2.12/bbe1a4137d85a2b8611efd98bc74c42f033d7973/grails-plugin-rest-3.2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.2.12/e12981187523faf99b796be5d4f438279521db8c/grails-plugin-rest-3.2.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
